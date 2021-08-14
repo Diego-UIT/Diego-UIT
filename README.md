@@ -16,7 +16,7 @@
   
 **Latest Projects 📚**
 
-- [Evo-Furniture App](https://food-g-app.web.app)
+- [TODO LIST with ReactJS-Redux](http://minhchuong.freevnn.com)
 
   <br />
   <br />
