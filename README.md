@@ -11,16 +11,6 @@
 - 🍞 All of my projects are available at **[https://github.com/Diego-UIT](https://github.com/Diego-UIT)**
 
   <br />
-  <br />
-  
-  
-**Latest Projects 📚**
-
-- [TODO LIST with ReactJS-Redux](http://minhchuong.freevnn.com)
-
-  <br />
-  <br />
-  
 **Connect with me 🔥**
 
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="huynhlyminhchuong" height="20" width="30" /></a>&nbsp;
